@@ -1,0 +1,15 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.javaworld.hotels</groupId>
+	<artifactId>HotelWebApp</artifactId>
+	<packaging>war</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>HotelWebApp</name>
+	<dependencies>
+		<dependency>
+			<groupId>com.javaworld.hotels</groupId>
+			<artifactId>HotelDatabase</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+</project>
