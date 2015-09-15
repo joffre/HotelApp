@@ -1,0 +1,8 @@
+env:
+	linux
+	osx
+	windows
+
+language:
+	java
+
