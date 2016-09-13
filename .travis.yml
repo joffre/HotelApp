@@ -1,8 +1,2 @@
-env:
-	linux
-	osx
-	windows
-
-language:
-	java
+language: java
 
